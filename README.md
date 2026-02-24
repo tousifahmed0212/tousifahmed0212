@@ -5,7 +5,7 @@
 🎓 Masters in Professional Human Resource Management  
 🎓 1000+ Hours Post Graduate Diploma in Network Solutions & System Administration (BISEW)
 
-![Banner](My Banner.jpeg)
+![Banner](https://github.com/tousifahmed0212/tousifahmed0212/blob/f8c8f156a47f64df155dab23a2b689e34b400f45/My%20Banner.jpeg)
 
 ---
 
