@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi, I'm Tousif Ahmed 👋
 
-<!--
-**tousifahmed0212/tousifahmed0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring System Administrator & Network Engineer  
+📍 Windows Server | Active Directory | DNS | Hyper-V | Linux  
+🎓 Masters in Professional Human Resource Management  
+🎓 1000+ Hours Post Graduate Diploma in Network Solutions & System Administration (BISEW)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+
+- Enterprise Windows Server 2022 Infrastructure
+- Active Directory Redundancy & Replication
+- DNS & Identity Services
+- Virtualization with Hyper-V
+- Infrastructure Documentation & Runbooks
+
+---
+
+## 🏗 Featured Project
+
+### 🔹 Windows Server 2022 Enterprise Lab
+Structured enterprise deployment including:
+
+- Active Directory Domain Services
+- Multi-DC Replication
+- FSMO Role Management
+- DNS Integration
+- Controlled Failure Simulation
+- Infrastructure Validation
+
+📂 Repository:  
+👉 https://github.com/tousifahmed0212/windows-server-2022-enterprise-lab
+
+---
+
+## 🛠 Technical Skills
+
+**Identity & Directory**
+- Active Directory (AD DS)
+- FSMO Roles
+- Replication
+- DNS (AD Integrated)
+
+**Virtualization**
+- Hyper-V
+- Dynamic Memory
+- Nested Virtualization
+- Live Migration (Lab)
+
+**Networking**
+- TCP/IP
+- Subnetting
+- DHCP
+- MikroTik RouterOS (NAT, VLAN, Firewall Basics)
+
+**Linux**
+- RHEL Administration
+- Users & Permissions
+- Services & Storage
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: (www.linkedin.com/in/ahmedtousif)
+- Email: (workwith.tousifahmed@gmail.com) (workwith.tousifahmed@yahoo.com)
